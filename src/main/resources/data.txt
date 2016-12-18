@@ -1,0 +1,4 @@
+Book, BookName, 200, publishingHouse, Author, fantasy
+Magazine, Magazine, 43, publishing house, 14
+Book54, BookName1, 45, publishingHouse1, Author1, novel
+Newspaper, Newspaper, 10, publishing house, 2

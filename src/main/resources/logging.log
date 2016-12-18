@@ -1,0 +1,146 @@
+2016-12-17 16:37:54 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-17 16:37:54 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-17 16:37:54 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-17 16:37:54 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-17 16:44:19 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-17 16:44:19 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-17 16:44:19 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-17 16:44:19 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-17 16:44:27 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-17 16:44:27 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-17 16:44:27 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-17 16:44:27 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-17 16:44:40 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-17 16:44:40 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-17 16:44:40 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-17 16:44:40 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-17 16:45:19 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-17 16:45:19 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-17 16:45:19 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-17 16:45:19 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-17 16:52:55 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-17 16:52:55 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-17 16:52:55 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-17 16:52:55 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-17 16:53:23 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-17 16:53:23 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-17 16:53:23 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=45, publishingHouse='publishingHouse', author='Author', genre='NOVEL'} was created.
+2016-12-17 16:53:23 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-17 16:53:23 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-17 16:53:48 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-17 16:53:48 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-17 16:53:48 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=45, publishingHouse='publishingHouse', author='Author', genre='NOVEL'} was created.
+2016-12-17 16:53:48 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-17 16:53:48 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-17 17:07:30 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-17 17:07:30 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-17 17:07:30 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-17 17:07:30 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-17 17:09:19 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-17 17:09:19 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-17 17:09:19 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-17 17:09:19 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-17 17:10:40 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-17 17:10:40 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-17 17:10:40 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-17 17:10:40 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 14:39:27 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 14:39:27 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 14:39:27 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 14:39:27 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 15:10:48 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 15:10:48 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 15:10:48 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 15:10:48 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 15:11:49 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 15:11:49 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 15:11:49 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 15:11:49 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 15:13:16 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 15:13:16 INFO  EditionFactory:21 - Edition wasn't created.
+2016-12-18 15:13:16 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 15:13:16 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 15:13:16 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 15:13:34 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 15:13:34 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 15:13:34 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 15:13:34 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 15:13:34 INFO  EditionFactory:21 - Edition wasn't created.
+2016-12-18 15:29:23 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 15:29:23 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 15:29:23 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 15:29:23 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 15:29:23 INFO  EditionFactory:21 - Edition wasn't created.
+2016-12-18 15:58:42 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 15:58:43 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 15:59:10 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 15:59:11 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 15:59:11 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 15:59:11 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 16:00:10 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 16:00:10 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 16:00:10 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 16:00:10 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 16:00:30 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 16:00:30 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 16:00:30 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 16:00:30 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 16:07:24 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 16:07:24 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 16:07:24 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 16:07:24 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 16:08:15 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 16:08:15 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 16:08:15 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 16:08:15 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 16:09:22 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 16:09:22 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 16:09:22 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 16:09:22 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 16:10:09 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 16:10:09 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 16:10:09 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 16:10:09 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 16:10:48 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 16:10:48 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 16:10:48 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 16:10:48 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 16:16:57 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 16:16:57 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 16:16:57 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 16:16:57 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 18:09:19 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 18:09:19 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 18:09:20 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 18:09:20 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 19:45:44 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 19:45:44 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 19:45:44 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 19:45:44 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 19:45:44 INFO  EditionFactory:21 - Edition wasn't created.
+2016-12-18 19:46:27 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 19:46:27 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 19:46:27 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 19:46:27 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 19:46:27 INFO  EditionFactory:21 - Edition wasn't created.
+2016-12-18 19:46:27 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 19:46:27 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 19:46:27 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 19:46:27 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 19:46:27 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 19:46:27 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 19:46:27 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 19:46:27 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 19:47:25 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:21 - Edition wasn't created.
+2016-12-18 19:47:26 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 19:47:26 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
