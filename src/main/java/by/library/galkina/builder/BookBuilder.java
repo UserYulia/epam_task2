@@ -34,8 +34,9 @@ public class BookBuilder {
                 genre = Genre.FANTASY;
                 break;
             }
-            default:
+            default: {
                 LOG.info("Book wasn't created, because genre wasn't defined.");
+            }
         }
         book = new Book(bookData[1], Integer.parseInt(bookData[2]), bookData[3],bookData[4],genre);
         return book;

@@ -18,7 +18,7 @@ public class EditionFactory {
             case "Book":{edition = BookBuilder.createBook(editionData); break; }
             case "Magazine":{edition = new Magazine(data[1],Integer.parseInt(data[2]),data[3],Integer.parseInt(data[4]));break;}
             case "Newspaper":{edition = new Newspaper(data[1],Integer.parseInt(data[2]),data[3],Integer.parseInt(data[4]));break;}
-            default:LOG.info("Edition wasn't created.");
+            default:{LOG.info("Edition wasn't created.");}
         }
         if(edition==null){
             throw new NotValidDataException();

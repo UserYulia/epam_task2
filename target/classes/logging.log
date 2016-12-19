@@ -131,3 +131,16 @@
 2016-12-18 19:46:27 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
 2016-12-18 19:46:27 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
 2016-12-18 19:46:27 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 19:47:25 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:21 - Edition wasn't created.
+2016-12-18 19:47:26 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
+2016-12-18 19:47:26 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Book{name='BookName', pagesCount=200, publishingHouse='publishingHouse', author='Author', genre='FANTASY'} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Magazine{name='Magazine', pagesCount=43, publishingHouse='publishing house', number=14} was created.
+2016-12-18 19:47:26 INFO  EditionFactory:27 - Newspaper{name='Newspaper', pagesCount=10, publishingHouse='publishing house', number=2} was created.
